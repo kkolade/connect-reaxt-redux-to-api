@@ -1,0 +1,290 @@
+{
+  "results": [
+  {
+  "gender": "male",
+  "name": {
+  "title": "Mr",
+  "first": "Taylor",
+  "last": "Harris"
+  },
+  "location": {
+  "street": {
+  "number": 2605,
+  "name": "Springfield Road"
+  },
+  "city": "Portlaoise",
+  "state": "Clare",
+  "country": "Ireland",
+  "postcode": 38372,
+  "coordinates": {
+  "latitude": "0.9938",
+  "longitude": "-23.3916"
+  },
+  "timezone": {
+  "offset": "-3:00",
+  "description": "Brazil, Buenos Aires, Georgetown"
+  }
+  },
+  "email": "taylor.harris@example.com",
+  "login": {
+  "uuid": "e554cc15-e8ac-4769-a644-34333c6e0c4c",
+  "username": "crazyfish299",
+  "password": "greatone",
+  "salt": "4FQUCzKj",
+  "md5": "968876d8a12b88cd30c65aac5068ad27",
+  "sha1": "0a39c902f8ae5fd56b473599685af1cbc861f249",
+  "sha256": "da5852a7a5b90b40e87ee2f19ad2ac566ba334b7dfa26a8b4705c53b5413a047"
+  },
+  "dob": {
+  "date": "1962-02-03T01:28:20.205Z",
+  "age": 61
+  },
+  "registered": {
+  "date": "2006-11-26T14:05:50.797Z",
+  "age": 16
+  },
+  "phone": "021-838-0728",
+  "cell": "081-391-2714",
+  "id": {
+  "name": "PPS",
+  "value": "5857035T"
+  },
+  "picture": {
+  "large": "https://randomuser.me/api/portraits/men/22.jpg",
+  "medium": "https://randomuser.me/api/portraits/med/men/22.jpg",
+  "thumbnail": "https://randomuser.me/api/portraits/thumb/men/22.jpg"
+  },
+  "nat": "IE"
+  },
+  {
+  "gender": "female",
+  "name": {
+  "title": "Miss",
+  "first": "نیایش",
+  "last": "حسینی"
+  },
+  "location": {
+  "street": {
+  "number": 1070,
+  "name": "دکتر مفتح"
+  },
+  "city": "سیرجان",
+  "state": "یزد",
+  "country": "Iran",
+  "postcode": 83369,
+  "coordinates": {
+  "latitude": "-29.1556",
+  "longitude": "179.7553"
+  },
+  "timezone": {
+  "offset": "-6:00",
+  "description": "Central Time (US & Canada), Mexico City"
+  }
+  },
+  "email": "nyysh.hsyny@example.com",
+  "login": {
+  "uuid": "14b378e8-c159-49dc-9531-49fde568642c",
+  "username": "purpleostrich888",
+  "password": "roger",
+  "salt": "3vyIxpiU",
+  "md5": "7f0f9b1d63de1d86097e04b6659d16d8",
+  "sha1": "7d88491ebacc5eff8a99f5dae94de9d9aa738ffb",
+  "sha256": "36b925960124a619c84ef301fa85d76a8aea0a6bed1bc3d096a18834fbfc9c12"
+  },
+  "dob": {
+  "date": "1996-11-02T22:39:22.812Z",
+  "age": 26
+  },
+  "registered": {
+  "date": "2016-02-21T08:12:35.403Z",
+  "age": 7
+  },
+  "phone": "099-09276455",
+  "cell": "0934-888-0441",
+  "id": {
+  "name": "",
+  "value": null
+  },
+  "picture": {
+  "large": "https://randomuser.me/api/portraits/women/82.jpg",
+  "medium": "https://randomuser.me/api/portraits/med/women/82.jpg",
+  "thumbnail": "https://randomuser.me/api/portraits/thumb/women/82.jpg"
+  },
+  "nat": "IR"
+  },
+  {
+  "gender": "female",
+  "name": {
+  "title": "Mrs",
+  "first": "Karine",
+  "last": "Thygesen"
+  },
+  "location": {
+  "street": {
+  "number": 57,
+  "name": "Røatoppen"
+  },
+  "city": "Tjørvåg",
+  "state": "Sogn og Fjordane",
+  "country": "Norway",
+  "postcode": "6040",
+  "coordinates": {
+  "latitude": "46.8923",
+  "longitude": "43.9034"
+  },
+  "timezone": {
+  "offset": "-11:00",
+  "description": "Midway Island, Samoa"
+  }
+  },
+  "email": "karine.thygesen@example.com",
+  "login": {
+  "uuid": "aeebdfe0-e3ba-4698-96de-d1762be7d900",
+  "username": "beautifuldog730",
+  "password": "fiesta",
+  "salt": "Sa3Ia6lr",
+  "md5": "f0b9fca2a64d508a3cf78c54d04a5edb",
+  "sha1": "b9139e019c814b3f0bbc04a0d8d09e9d9a1d59b6",
+  "sha256": "e8327c2b2ed09a2599c89d854ed038dce8dff9ad98fb24607ca363c876912d11"
+  },
+  "dob": {
+  "date": "1947-02-24T20:26:53.562Z",
+  "age": 76
+  },
+  "registered": {
+  "date": "2020-09-20T17:39:30.392Z",
+  "age": 2
+  },
+  "phone": "72234935",
+  "cell": "92910086",
+  "id": {
+  "name": "FN",
+  "value": "24024712253"
+  },
+  "picture": {
+  "large": "https://randomuser.me/api/portraits/women/13.jpg",
+  "medium": "https://randomuser.me/api/portraits/med/women/13.jpg",
+  "thumbnail": "https://randomuser.me/api/portraits/thumb/women/13.jpg"
+  },
+  "nat": "NO"
+  },
+  {
+  "gender": "male",
+  "name": {
+  "title": "Mr",
+  "first": "Rishi",
+  "last": "Shayana"
+  },
+  "location": {
+  "street": {
+  "number": 5894,
+  "name": "Rani No Hajiro"
+  },
+  "city": "Sikar",
+  "state": "Telangana",
+  "country": "India",
+  "postcode": 27151,
+  "coordinates": {
+  "latitude": "39.1249",
+  "longitude": "125.3335"
+  },
+  "timezone": {
+  "offset": "-8:00",
+  "description": "Pacific Time (US & Canada)"
+  }
+  },
+  "email": "rishi.shayana@example.com",
+  "login": {
+  "uuid": "bcb0e80e-2450-42b0-a2b3-457f6984f200",
+  "username": "bluebear845",
+  "password": "darrel",
+  "salt": "qehDTU2v",
+  "md5": "3712d91d4a023153be1eddba4e833f7e",
+  "sha1": "00aee744cb827697b1a00be201b5accf44aca62e",
+  "sha256": "bb682643ef2cf181dbccd450f9a8672f0bfa2cb0e95101957f17f72397ea0eee"
+  },
+  "dob": {
+  "date": "1955-11-15T23:25:11.534Z",
+  "age": 67
+  },
+  "registered": {
+  "date": "2012-04-07T01:14:32.523Z",
+  "age": 11
+  },
+  "phone": "7662232525",
+  "cell": "8426171632",
+  "id": {
+  "name": "UIDAI",
+  "value": "780596468623"
+  },
+  "picture": {
+  "large": "https://randomuser.me/api/portraits/men/71.jpg",
+  "medium": "https://randomuser.me/api/portraits/med/men/71.jpg",
+  "thumbnail": "https://randomuser.me/api/portraits/thumb/men/71.jpg"
+  },
+  "nat": "IN"
+  },
+  {
+  "gender": "female",
+  "name": {
+  "title": "Mrs",
+  "first": "Maja",
+  "last": "Johansen"
+  },
+  "location": {
+  "street": {
+  "number": 3621,
+  "name": "Allegade"
+  },
+  "city": "Tisvilde",
+  "state": "Hovedstaden",
+  "country": "Denmark",
+  "postcode": 16076,
+  "coordinates": {
+  "latitude": "63.7349",
+  "longitude": "37.9105"
+  },
+  "timezone": {
+  "offset": "-1:00",
+  "description": "Azores, Cape Verde Islands"
+  }
+  },
+  "email": "maja.johansen@example.com",
+  "login": {
+  "uuid": "ca86cd29-bde3-4411-bbbd-5420d37b3a93",
+  "username": "organicgorilla337",
+  "password": "alatam",
+  "salt": "21vgjvSo",
+  "md5": "f9cab6c644ff44867196cbb529415fb0",
+  "sha1": "c7711e902abfc22b8c0822aca664a1d2363f17bd",
+  "sha256": "46b67cbd5ec878842454edd8f6ee2f57aa39f4e6603db41c76ee1477e7ea6788"
+  },
+  "dob": {
+  "date": "1947-11-15T09:16:21.153Z",
+  "age": 75
+  },
+  "registered": {
+  "date": "2005-10-02T20:54:46.441Z",
+  "age": 17
+  },
+  "phone": "30717576",
+  "cell": "73119756",
+  "id": {
+  "name": "CPR",
+  "value": "151147-5286"
+  },
+  "picture": {
+  "large": "https://randomuser.me/api/portraits/women/10.jpg",
+  "medium": "https://randomuser.me/api/portraits/med/women/10.jpg",
+  "thumbnail": "https://randomuser.me/api/portraits/thumb/women/10.jpg"
+  },
+  "nat": "DK"
+  }
+  ],
+  "info": {
+  "seed": "a3f37497ed835256",
+  "results": 5,
+  "page": 1,
+  "version": "1.4"
+  }
+  }
